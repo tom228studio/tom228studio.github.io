@@ -1,4 +1,4 @@
 # maket
 for test make it
 
-tom228studio.github.io
+https://tom228studio.github.io/
